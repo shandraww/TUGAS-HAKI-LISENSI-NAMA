@@ -1,8 +1,12 @@
-A. Identitas Produk Perangkat Lunak
+<p align="center">
+  <em>A. Identitas Produk Perangkat Lunak
 Nama Aplikasi / Software: Web Umanari
 Kategori Produk: Web Company Profile
 Deskripsi Singkat Fungsi Aplikasi:
 Web Umanari adalah web yang digunakan untuk memperkenalkan Cafe di sekitar Kota Bandung tepatnya di Jl. Naripan No. 36. Web ini juga sebagai sarana branding dan pemasaran efektif.
+  </em>
+</p>
+
 
 <h1> B. Analisis Perlindungan HAKI Produk </h1>
 Hak Cipta (Copyright):
